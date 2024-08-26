@@ -23,7 +23,6 @@ Este repositório contém o código desenvolvido para a atividade de autoestudo,
 
 ## Estrutura do Repositório
 
-- `SamplePage.php`: Página principal da aplicação web, que se conecta ao banco de dados e realiza operações CRUD na tabela `EMPLOYEES`.
 - `ProjectsPage.php`: Página adicional para gerenciar os registros na tabela `PROJECTS`, criada durante a atividade.
 - `dbinfo.inc`: Arquivo de configuração contendo as credenciais e o endpoint do banco de dados.
 - `README.md`: Documento explicativo sobre o projeto e o conteúdo do repositório.
