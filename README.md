@@ -36,5 +36,5 @@ Este repositório contém o código desenvolvido para a atividade de autoestudo,
 1. Clone o repositório para a sua máquina local.
 2. Certifique-se de que as configurações no arquivo `dbinfo.inc` estão corretas e apontam para o seu banco de dados RDS.
 3. Suba os arquivos PHP para o servidor EC2 configurado.
-4. Acesse as páginas `SamplePage.php` e `ProjectsPage.php` via navegador para interagir com a aplicação.
+4. Acesse a página  `ProjectsPage.php` via navegador para interagir com a aplicação.
 
